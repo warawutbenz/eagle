@@ -1,2 +1,3 @@
 print('Hello')
-print('Add second line')
+print('Add line 2')
+print('Add line 3')
